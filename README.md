@@ -1,5 +1,5 @@
 # PassGen
-PassGen JetZux Ltd. Nov 2017
+PassGen By JetZux Ltd. Nov 2017
 
 ### usage
 - Generate Password, 6-16 char : [0-9] [!@#$%^&*] [a-z] [A-Z]
@@ -18,4 +18,4 @@ PassGen JetZux Ltd. Nov 2017
 
 ### [0.00.00.02] - 2017-11-16
 #### added
-- +.init release.
+- +.initial release.
