@@ -1,0 +1,7 @@
+# release
+|name|desc|
+|-|-|
+|Compiler|VC 2005 XP Mode|
+|PassGen.Ver|0.00.00.02|
+|PassGen.dll|windows,x86|
+|PassGen(x64).dll|windows,x64|
