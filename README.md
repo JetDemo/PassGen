@@ -15,8 +15,11 @@ PassGen By JetZux Ltd. Dec 2017
 [Release](https://github.com/JetDemo/PassGen/tree/master/bin "Release")
 
 ## Change Log
+### [0.00.00.05] - 2018-03-07
+#### remove tail extra empty characters.
+- -c eg. -c1000
 
-### [0.00.00.03] - 2017-12-04
+### [0.00.00.04] - 2017-12-04
 #### add two options
 - -c can indicate the number of password will be generated.
 - -h show usage.
